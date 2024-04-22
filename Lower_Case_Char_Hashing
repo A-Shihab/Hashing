@@ -2,7 +2,7 @@
 using namespace std;
 
 #define  ll  long long
-#define lli long long ll
+#define lli long long int
 #define ull unsigned ll
 #define pb push_back
 #define for1(i,n) for(ll i=0; i<n; i++)
